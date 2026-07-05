@@ -1,0 +1,56 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+.title {
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 78px;
+  text-align: center;
+  color: #515076;
+}
+.product-title1 {
+  font-size: 20px;
+  line-height: 27px;
+  color: #515076
+}
+
+.description, .tag {
+  font-size: 12px;
+  line-height: 24px;
+  color: #A5A3B9;
+  font-weight: 400;
+}
+
+.zogolovok {
+font-weight: 400;
+font-size: 12px;
+text-transform: uppercase;
+color: #A5A3B9;
+}
+
+.svoistva {
+  font-style: Regular;
+  font-size: 13px;
+  line-height: 18px;
+  color: #A5A3B9;
+}
+
+.shop {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #515076
+}
+
+.cena {
+
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 20px;
+  letter-spacing: 0%;
+  color: #515076;
+}
