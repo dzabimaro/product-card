@@ -31,7 +31,7 @@ color: #A5A3B9;
 }
 
 .svoistva {
-  font-style: Regular;
+  font-weight: 400;
   font-size: 13px;
   line-height: 18px;
   color: #A5A3B9;
@@ -39,7 +39,6 @@ color: #A5A3B9;
 
 .shop {
   font-weight: 700;
-  font-style: Bold;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0%;
@@ -54,3 +53,36 @@ color: #A5A3B9;
   letter-spacing: 0%;
   color: #515076;
 }
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  max-width: 1110px;
+  margin: 0 auto;
+}
+
+.card {
+  width: 320px;
+  background: #ffffff;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px 0px #5150761A;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-img {
+    width: 100%;
+    display: block;
+    margin-bottom: 15px;
+} 
+
+.card-price-row {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
