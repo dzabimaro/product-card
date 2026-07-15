@@ -1,7 +1,7 @@
 body {
   background-color: #ffffff;
   font-family: Arial, sans-serif;
-  background-image: url("img/photo_7.jpg");
+  background-image: url('img/photo_7.jpg');
   background-repeat: no-repeat;
   font-size: 13px;
 }
